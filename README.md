@@ -18,7 +18,7 @@ Scraping a dynamic content page generated from javascript using python and Selen
 
 - save the data into an excel file for preview
 
-Selenium in the project is used in creating web driver, clicking button, wait condition, creating custom wait condition... 
+Selenium in the project is used in creating web driver, clicking button, explicit waiting, creating custom wait condition... 
 ### Input
 links of pages contain list of old products and new products (provided in the notebook)
 ### Output
